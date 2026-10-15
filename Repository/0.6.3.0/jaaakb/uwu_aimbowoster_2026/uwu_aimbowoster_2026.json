@@ -1,1 +1,13 @@
-
+{
+    "Name": "uwu aimbowoster 2026",
+    "Owner": "asspain67",
+    "Description": "wip prediction (state estimate)/interpolation plugin 2026 ver",
+    "PluginVersion": "0.6.11",
+    "SupportedDriverVersion": "0.6.3.0",
+    "RepositoryUrl": "https://github.com/asrfggafgsdf/scuffed-interp-extrap",
+    "DownloadUrl": "https://github.com/asrfggafgsdf/scuffed-interp-extrap/releases/download/v1.1.1/ScuffedInterp.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "XXXX",
+    "WikiUrl": "XXXX https://github.com/asrfggafgsdf/scuffed-interp-extrap/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
